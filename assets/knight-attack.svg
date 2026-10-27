@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 56" shape-rendering="crispEdges"><path d="M16 17h13v5h5v25h-4v4H12v-4H8V25h4v-5h4z" fill="#292331"/>
+<path d="M13 21h14v5h3v20h-4v4H10v-5h2V26z" fill="#703742"/><path d="M14 23h3v24h-5v-5h2zM25 25h3v21h-4v-5h1z" fill="#ad5356"/><path d="M10 46h5v3h-5zM20 47h5v3h-5z" fill="#d57b63"/>
+<path d="M18 36h7v8h-2v8h-6v-4h1zM27 35h6v9h2v7h-7v-8h-2z" fill="#22323d"/>
+<path d="M19 37h4v7h-2v5h-3v-6h1zM28 37h3v7h2v5h-4v-6h-1z" fill="#7f98a3"/>
+<path d="M18 42h5v3h-5zM28 42h5v3h-5z" fill="#b9c9c8"/>
+<path d="M16 49h7v5h-9v-3h2zM29 49h6v2h3v3h-9z" fill="#1c2934"/><path d="M15 51h7v1h-7zM30 51h5v1h-5z" fill="#718591"/>
+<path d="M17 20h11v2h5v4h-2v10H17v-5h-4v-8h4z" fill="#263947"/>
+<path d="M17 22h12v3h2v8H17v-3h-3v-5h3z" fill="#6d8a9b"/>
+<path d="M18 23h9v2h-3v6h-5v-4h-1z" fill="#c4d9d5"/><path d="M25 25h4v7h-6v-2h2z" fill="#9db5ba"/>
+<path d="M17 32h14v3H17z" fill="#374b59"/><path d="M17 35h15v3H17z" fill="#654b3c"/><path d="M23 35h4v3h-4z" fill="#e0bc75"/><path d="M24 36h2v1h-2z" fill="#65503f"/>
+<path d="M12 21h6v2h2v6h-9v-6h1z" fill="#314754"/><path d="M13 22h5v2h-5zM12 25h7v2h-7z" fill="#b9cdcc"/>
+<path d="M14 8h2V5h4V3h8v2h3v3h2v10h-3v4H18v-3h-4z" fill="#26323e"/>
+<path d="M17 8h2V6h10v3h2v8h-3v3h-9v-3h-3V9h1z" fill="#8ca5b1"/>
+<path d="M19 7h5v5h-7V9h2zM19 17h5v3h-4v-1h-1z" fill="#d6e5dc"/>
+<path d="M16 12h15v4H16z" fill="#152630"/><path d="M18 13h4v1h-4zM26 13h3v1h-3z" fill="#77c6c5"/>
+<path d="M24 6h2v15h-2z" fill="#ddc38b"/><path d="M27 17h1v2h-1zM29 17h1v2h-1z" fill="#354856"/>
+<path d="M21 1h3v2h3v3h-5V4h-1z" fill="#b75b57"/><path d="M20 1h3v2h-3z" fill="#f19a77"/>
+<path d="M10 28h6v3h2v13h-2v3h-5v-2H8V31h2z" fill="#182c34"/>
+<path d="M10 30h5v3h1v10h-2v2h-3v-2H9V32h1z" fill="#bc9b5e"/>
+<path d="M11 32h3v2h1v8h-2v1h-2v-2h-1v-7h1z" fill="#345a5d"/>
+<path d="M11 34h3v2h-1v2h2v2h-2v2h-1v-3h-1v-2h1v-1h-1z" fill="#e7ce8b"/>
+<rect x="10" y="31" width="1" height="1" fill="#f8e2aa"/><rect x="14" y="42" width="1" height="1" fill="#f8e2aa"/><g id="sword"><path d="M29 22h5v2h2v9h-5v-5h-2z" fill="#273c49"/><path d="M30 23h4v3h-4z" fill="#d1dfd6"/><path d="M33 27h3v5h-3z" fill="#90a8ae"/>
+<path d="M35 29h3v4h-3z" fill="#c69d78"/><path d="M37 30h4v3h-4z" fill="#302d35"/>
+<path d="M39 28h3v12h-3z" fill="#5e4336"/><path d="M38 29h5v2h-5zM39 37h3v2h-3z" fill="#e9c77f"/>
+<path d="M39 10h2V7h1v3h2v16h-2v3h-3z" fill="#253e4c"/>
+<path d="M40 11h2v15h-2z" fill="#b4d5d6"/><path d="M41 10h1v16h-1z" fill="#f0f1d8"/>
+<path d="M36 26h9v2h-9z" fill="#e1b971"/><path d="M36 27h2v2h-2zM43 27h2v2h-2z" fill="#8d6a47"/><animateTransform attributeName="transform" type="rotate" values="0 33 27;-28 33 27;85 33 27;105 33 27;0 33 27" keyTimes="0;0.2;0.45;0.65;1" dur="0.48s" repeatCount="1"/></g></svg>
